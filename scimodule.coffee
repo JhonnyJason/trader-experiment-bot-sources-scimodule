@@ -103,4 +103,5 @@ scimodule.prepareAndExpose = ->
 
 #endregion exposed functions
 
-export default scimodule
+module.exports = scimodule
+# export default scimodule
